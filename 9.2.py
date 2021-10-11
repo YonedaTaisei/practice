@@ -1,3 +1,4 @@
+# 変更した
 """studentlist=["浅村","松木"]
 count=0
 
